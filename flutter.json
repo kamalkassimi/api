@@ -1,0 +1,142 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 28,
+    "email": "john.doe@example.com",
+    "password": "password123"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 34,
+    "email": "jane.smith@example.com",
+    "password": "securepass456"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 22,
+    "email": "alice.johnson@example.com",
+    "password": "alicepass789"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "age": 45,
+    "email": "bob.brown@example.com",
+    "password": "bobpass321"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Davis",
+    "age": 30,
+    "email": "charlie.davis@example.com",
+    "password": "charliepass654"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Evans",
+    "age": 29,
+    "email": "diana.evans@example.com",
+    "password": "dianapass987"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Garcia",
+    "age": 27,
+    "email": "ethan.garcia@example.com",
+    "password": "ethanpass123"
+  },
+  {
+    "firstName": "Fiona",
+    "lastName": "Harris",
+    "age": 31,
+    "email": "fiona.harris@example.com",
+    "password": "fionapass456"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Martinez",
+    "age": 40,
+    "email": "george.martinez@example.com",
+    "password": "georgepass789"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Clark",
+    "age": 26,
+    "email": "hannah.clark@example.com",
+    "password": "hannahpass321"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Lewis",
+    "age": 33,
+    "email": "ian.lewis@example.com",
+    "password": "ianpass654"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Walker",
+    "age": 24,
+    "email": "julia.walker@example.com",
+    "password": "juliapass987"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Hall",
+    "age": 38,
+    "email": "kevin.hall@example.com",
+    "password": "kevinpass123"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Allen",
+    "age": 29,
+    "email": "laura.allen@example.com",
+    "password": "laurapass456"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Young",
+    "age": 35,
+    "email": "michael.young@example.com",
+    "password": "michaelpass789"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Hernandez",
+    "age": 27,
+    "email": "nina.hernandez@example.com",
+    "password": "ninapass321"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "King",
+    "age": 42,
+    "email": "oscar.king@example.com",
+    "password": "oscarpass654"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Wright",
+    "age": 31,
+    "email": "paula.wright@example.com",
+    "password": "paulapass987"
+  },
+  {
+    "firstName": "Quincy",
+    "lastName": "Lopez",
+    "age": 28,
+    "email": "quincy.lopez@example.com",
+    "password": "quincypass123"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Scott",
+    "age": 36,
+    "email": "rachel.scott@example.com",
+    "password": "rachelpass456"
+  }
+]
