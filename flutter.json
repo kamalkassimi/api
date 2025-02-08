@@ -5,7 +5,8 @@
     "lastName": "Doe",
     "age": 28,
     "email": "john.doe@example.com",
-    "password": "password123"
+    "password": "password123",
+    "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "lastName": "Smith",
     "age": 34,
     "email": "jane.smith@example.com",
-    "password": "securepass456"
+    "password": "securepass456",
+    "image": "https://t3.ftcdn.net/jpg/04/60/91/88/360_F_460918802_XVCymFr7MoziFpnInbTDvrlblYhvAOi2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "lastName": "Johnson",
     "age": 22,
     "email": "alice.johnson@example.com",
-    "password": "alicepass789"
+    "password": "alicepass789",
+    "image": "https://t4.ftcdn.net/jpg/05/79/72/77/360_F_579727704_8LyiyQXu9RWcrMC3wJQZqUcKoklrpYsi.jpg"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "lastName": "Brown",
     "age": 45,
     "email": "bob.brown@example.com",
-    "password": "bobpass321"
+    "password": "bobpass321",
+    "image": "https://example.com/images/bob_brown.jpg"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "lastName": "Davis",
     "age": 30,
     "email": "charlie.davis@example.com",
-    "password": "charliepass654"
+    "password": "charliepass654",
+    "image": "https://example.com/images/charlie_davis.jpg"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "lastName": "Evans",
     "age": 29,
     "email": "diana.evans@example.com",
-    "password": "dianapass987"
+    "password": "dianapass987",
+    "image": "https://example.com/images/diana_evans.jpg"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "lastName": "Garcia",
     "age": 27,
     "email": "ethan.garcia@example.com",
-    "password": "ethanpass123"
+    "password": "ethanpass123",
+    "image": "https://example.com/images/ethan_garcia.jpg"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "lastName": "Harris",
     "age": 31,
     "email": "fiona.harris@example.com",
-    "password": "fionapass456"
+    "password": "fionapass456",
+    "image": "https://example.com/images/fiona_harris.jpg"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "lastName": "Martinez",
     "age": 40,
     "email": "george.martinez@example.com",
-    "password": "georgepass789"
+    "password": "georgepass789",
+    "image": "https://example.com/images/george_martinez.jpg"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "lastName": "Clark",
     "age": 26,
     "email": "hannah.clark@example.com",
-    "password": "hannahpass321"
+    "password": "hannahpass321",
+    "image": "https://example.com/images/hannah_clark.jpg"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "lastName": "Lewis",
     "age": 33,
     "email": "ian.lewis@example.com",
-    "password": "ianpass654"
+    "password": "ianpass654",
+    "image": "https://example.com/images/ian_lewis.jpg"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "lastName": "Walker",
     "age": 24,
     "email": "julia.walker@example.com",
-    "password": "juliapass987"
+    "password": "juliapass987",
+    "image": "https://example.com/images/julia_walker.jpg"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "lastName": "Hall",
     "age": 38,
     "email": "kevin.hall@example.com",
-    "password": "kevinpass123"
+    "password": "kevinpass123",
+    "image": "https://example.com/images/kevin_hall.jpg"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "lastName": "Allen",
     "age": 29,
     "email": "laura.allen@example.com",
-    "password": "laurapass456"
+    "password": "laurapass456",
+    "image": "https://example.com/images/laura_allen.jpg"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "lastName": "Young",
     "age": 35,
     "email": "michael.young@example.com",
-    "password": "michaelpass789"
+    "password": "michaelpass789",
+    "image": "https://example.com/images/michael_young.jpg"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "lastName": "Hernandez",
     "age": 27,
     "email": "nina.hernandez@example.com",
-    "password": "ninapass321"
+    "password": "ninapass321",
+    "image": "https://example.com/images/nina_hernandez.jpg"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "lastName": "King",
     "age": 42,
     "email": "oscar.king@example.com",
-    "password": "oscarpass654"
+    "password": "oscarpass654",
+    "image": "https://example.com/images/oscar_king.jpg"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "lastName": "Wright",
     "age": 31,
     "email": "paula.wright@example.com",
-    "password": "paulapass987"
+    "password": "paulapass987",
+    "image": "https://example.com/images/paula_wright.jpg"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "lastName": "Lopez",
     "age": 28,
     "email": "quincy.lopez@example.com",
-    "password": "quincypass123"
+    "password": "quincypass123",
+    "image": "https://example.com/images/quincy_lopez.jpg"
   },
   {
     "id": 20,
@@ -157,6 +176,7 @@
     "lastName": "Scott",
     "age": 36,
     "email": "rachel.scott@example.com",
-    "password": "rachelpass456"
+    "password": "rachelpass456",
+    "image": "https://example.com/images/rachel_scott.jpg"
   }
 ]
