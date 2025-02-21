@@ -20,6 +20,45 @@
         "specialité": "Dentiste"
       }
     }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
   },
   {
     "id": 2,
@@ -42,6 +81,45 @@
         "specialité": "Dentiste"
       }
     }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
   },
   {
     "id": 3,
@@ -51,6 +129,45 @@
     "email": "alice.johnson@example.com",
     "password": "alicepass789",
     "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560012_H1efJHOgwhsE9avs3D9fL8DqAqkG88eG.jpg",
+    "appointment": {
+      "location": "casablanca",
+      "price": "600DH",
+      "patientName": "Amin el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "600DH",
+      "patientName": "Amin el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
+    "appointment": {
+      "location": "casablanca",
+      "price": "600DH",
+      "patientName": "Amin el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
     "appointment": {
       "location": "casablanca",
       "price": "600DH",
