@@ -6,7 +6,20 @@
     "age": 28,
     "email": "john.doe@example.com",
     "password": "password123",
-    "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+    "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
   },
   {
     "id": 2,
@@ -15,7 +28,20 @@
     "age": 34,
     "email": "jane.smith@example.com",
     "password": "securepass456",
-    "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.jpg"
+    "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560006_F2fIixDnlVRNGwCyne9EMQJhaAxalKTq.jpg",
+    "appointment": {
+      "location": "casablanca",
+      "price": "330DH",
+      "patientName": "kamal el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
   },
   {
     "id": 3,
@@ -24,6 +50,19 @@
     "age": 22,
     "email": "alice.johnson@example.com",
     "password": "alicepass789",
-    "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560012_H1efJHOgwhsE9avs3D9fL8DqAqkG88eG.jpg"
+    "image": "https://t3.ftcdn.net/jpg/02/68/56/00/360_F_268560012_H1efJHOgwhsE9avs3D9fL8DqAqkG88eG.jpg",
+    "appointment": {
+      "location": "casablanca",
+      "price": "600DH",
+      "patientName": "Amin el kacimi",
+      "doctorName": "Nom docteur",
+      "date": "Jan 8, 2022 - 3:33",
+      "upcomingAppointment": {
+        "date": "Lundi 10 janvier 2023",
+        "heure": "8H",
+        "docteur": "Ralph Edwards",
+        "specialité": "Dentiste"
+      }
+    }
   }
 ]
